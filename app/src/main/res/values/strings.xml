@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Factor Factor</string>
+    <string name="mainActivityBgImg">backgroundImg</string>
+    <string name="gameTitle">Play with Factors</string>
+    <string name="gameRulesTitle">Game Rules:</string>
+    <string name="gameRule1">1. Enter a number for which 3 options will be generated randomly.</string>
+    <string name="gameRule2">2. Out of which exactly one of the options is a factor of the entered number.</string>
+    <string name="gameRule3">3. On selection of an option, you will get +5 for every right answer and 0 for every wrong answer.</string>
+    <string name="gameRule4">4. The game will end if you fail to choose the answer within 10 seconds.</string>
+    <string name="startButton">Start the Game&#160;&#160;</string>
+    <string name="enterNo">Enter a Number</string>
+    <string name="score">Your Score :&#160;</string>
+    <string name="highScore">High Score :&#160;</string>
+    <string name="zero">0</string>
+    <string name="go">GO</string>
+    <string name="nextQnBtn">NEXT QUESTION</string>
+    <string name="myName">A.M.Jayshri</string>
+    <string name="exit">Exit</string>
+</resources>

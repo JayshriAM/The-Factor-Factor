@@ -1,0 +1,2 @@
+rootProject.name='FactorTestApp'
+include ':app'
